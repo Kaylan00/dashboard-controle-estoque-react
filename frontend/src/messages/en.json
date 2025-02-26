@@ -1,0 +1,21 @@
+{
+  "search": {
+    "placeholder": "Search for anything..."
+  },
+  "theme": {
+    "toggleLight": "Switch to light theme",
+    "toggleDark": "Switch to dark theme"
+  },
+  "notifications": {
+    "title": "Notifications"
+  },
+  "dashboard": {
+    "stats": {
+      "sales": "No. of Sales",
+      "profit": "Last Month Profit",
+      "netProfit": "Net Profit",
+      "orders": "Avg Orders per month",
+      "stock": "Items in Stock"
+    }
+  }
+} 

@@ -1,0 +1,21 @@
+{
+  "search": {
+    "placeholder": "Buscar por qualquer coisa..."
+  },
+  "theme": {
+    "toggleLight": "Mudar para tema claro",
+    "toggleDark": "Mudar para tema escuro"
+  },
+  "notifications": {
+    "title": "Notificações"
+  },
+  "dashboard": {
+    "stats": {
+      "sales": "Nº de Vendas",
+      "profit": "Lucro do Último Mês",
+      "netProfit": "Lucro Líquido",
+      "orders": "Média de Pedidos por mês",
+      "stock": "Itens em Estoque"
+    }
+  }
+} 
