@@ -6,7 +6,7 @@ Sistema de controle de estoque.
 
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/Kaylan00/dashboard-controle-estoque/
+git clone https://github.com/Kaylan00/dashboard-controle-estoque.git
 ```
 ### 2️⃣ Acessar o Diretório do Projeto
 ```bash
