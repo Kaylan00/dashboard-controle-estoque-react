@@ -10,7 +10,7 @@ git clone https://github.com/Kaylan00/dashboard-controle-estoque.git
 ```
 ### 2️⃣ Acessar o Diretório do Projeto
 ```bash
-cd dashboard-controle-estoque
+cd dashboard-controle-estoque-react
 ```
 ### 3️⃣ Instalar as Dependências do Frontend
 ```bash
