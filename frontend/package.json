@@ -32,6 +32,7 @@
   "devDependencies": {
     "@storybook/nextjs": "^7.0.0",
     "@storybook/react": "^7.0.0",
+    "@tanstack/react-query-devtools": "^5.81.5",
     "@testing-library/jest-dom": "^6.0.0",
     "@testing-library/react": "^14.0.0",
     "@types/node": "^20",
