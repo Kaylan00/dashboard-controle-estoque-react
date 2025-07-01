@@ -1,16 +1,12 @@
 'use client';
 
 import React from 'react';
-import { Container, Spinner } from './styles';
+import { Container } from './styles';
 
-interface LoadingProps {
-  fullScreen?: boolean;
-}
 
-const Loading: React.FC<LoadingProps> = ({ fullScreen }) => {
+const Loading = () => {
   return (
-    <Container fullScreen={fullScreen}>
-      <Spinner />
+    <Container>
     </Container>
   );
 };
