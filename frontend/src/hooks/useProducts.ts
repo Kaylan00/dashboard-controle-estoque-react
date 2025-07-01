@@ -2,7 +2,7 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { productsService } from '@/services/products';
 import type { Product } from '@/types';
 
-const mockProducts = []; // Array vazio inicial
+const mockProducts: Product[] = [];
 
 export function useProducts() {
   const queryClient = useQueryClient();
