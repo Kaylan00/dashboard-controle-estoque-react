@@ -1,7 +1,7 @@
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import { requisitionService } from '@/services/requisition';
 
-const mockRequisitions = []; // Array vazio inicial
+const mockRequisitions: any[] = [];
 
 export function useRequisitions() {
   return useQuery({
