@@ -1,4 +1,26 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle, DefaultTheme } from 'styled-components';
+
+declare module 'styled-components' {
+  export interface DefaultTheme {
+    colors: {
+      bgPrimary: string;
+      cardBg: string;
+      panelBg: string;
+      textPrimary: string;
+      textSecondary: string;
+      success: string;
+      primary: string;
+      border: string;
+      sidebarBg: string;
+      sidebarHover: string;
+      [key: string]: string;
+    };
+    borderRadius: {
+      card: string;
+      [key: string]: string;
+    };
+  }
+}
 
 export default createGlobalStyle`
   :root {
