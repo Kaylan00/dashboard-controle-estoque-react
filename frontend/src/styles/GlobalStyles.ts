@@ -133,8 +133,5 @@ export default createGlobalStyle`
     background: var(--primary);
     border-radius: 4px;
     
-    &:hover {
-      background: var(--primary-dark);
-    }
   }
 `; 
